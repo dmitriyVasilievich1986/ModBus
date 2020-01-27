@@ -1,0 +1,13 @@
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\bin\Release\Modbus.exe.config
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\bin\Release\Modbus.exe
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\bin\Release\Modbus.pdb
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\bin\Release\ModBus_Library.dll
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\bin\Release\ModBus_Library.pdb
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.Form1.resources
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.Properties.Resources.resources
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.csproj.GenerateResource.cache
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.csproj.CopyComplete
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.exe
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.pdb
+C:\Users\d.shcherbachenya\Desktop\projects\Modbus\obj\Release\Modbus.csprojAssemblyReference.cache
